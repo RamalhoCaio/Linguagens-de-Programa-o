@@ -1,4 +1,4 @@
-import java.util.Scanner; // importa a classe Scanner
+import java.util.Scanner; // importa a classe Scanner do pacote java.util
 
 class Main {
   public static void main(String[] args) {
